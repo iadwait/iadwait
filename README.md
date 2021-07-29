@@ -1,9 +1,11 @@
-<!--
-**iadwait/iadwait** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
--->
 
-### Hi there <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+## Hi, I'm [Adwait Barkale!](https://iadwait.github.io/Personal-Site/) 👋
 
----
+<br/>
 
-![carbon](https://github.com/iadwait/iadwait/blob/master/assets/carbon.png)
+- 💻 I’m currently working on iOS App Development.
+- 🌱 I’m currently learning Frontend Web Development.
+- 📫 Contact Me: [LinkedIn - @adwaitbarkale](https://in.linkedin.com/in/adwait-barkale-a77092119) , [Gmail] adwaitbarkale@gmail.com
+- 📵 Hates Social Media
+
+<br/>
