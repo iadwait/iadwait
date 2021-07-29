@@ -1,5 +1,5 @@
 
-## Hi, I'm [Adwait Barkale!](https://iadwait.github.io/Personal-Site/) 👋
+## Hi, I'm [Adwait!](https://iadwait.github.io/Personal-Site/) 👋
 
 <br/>
 
