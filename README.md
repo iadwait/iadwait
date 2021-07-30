@@ -17,3 +17,7 @@
 <a href="https://github.com/iadwait">
  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iadwait&layout=compact&theme=chartreuse-light" alt="Adwait's Used Lang's"/>
 </a>
+<hr>
+
+
+![VisitorCount](https://profile-counter.glitch.me/iadwait/count.svg)
