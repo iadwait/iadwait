@@ -12,3 +12,8 @@
 <a href="https://github.com/iadwait">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iadwait&show_icons=true&theme=light&line_height=27" alt="Adwait's github stats"/>
 </a>
+
+
+<a href="https://github.com/iadwait">
+ <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=iadwait&layout=compact&theme=chartreuse-light" alt="Adwait's Used Lang's"/>
+</a>
