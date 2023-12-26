@@ -7,7 +7,6 @@
 - 🌱 I’m currently learning SwiftUI Framework
 - 📫 Contact Me: LinkedIn - [@adwaitbarkale](https://in.linkedin.com/in/adwait-barkale-a77092119) , Gmail - adwaitbarkale@gmail.com
 - ❤️ Programming
-- 📵 Lives life without Social Media
 
 <a href="https://github.com/iadwait">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=iadwait&show_icons=true&theme=light&line_height=27" alt="Adwait's github stats"/>
